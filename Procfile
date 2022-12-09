@@ -1,1 +1,1 @@
-worker: python3 main.py
+Eco: python3 main.py
